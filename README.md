@@ -12,7 +12,7 @@ This case study is all about calculating metrics, growth and helping the busines
  # Entity Relationship Diagram
 ## Table 1: regions
 This regions table contains the region_id and their respective region_name values.
-
+! [image]
 ## Table 2: customer_nodes
 Customers are randomly distributed across the nodes according to their region. This random distribution changes frequently to reduce the risk of hackers getting into Data Bank’s system and stealing customer’s money and data!
 
